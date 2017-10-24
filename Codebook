@@ -1,0 +1,26 @@
+Steps of the assignment
+
+1. Merges the training and the test sets to create one data set.
+2. Extracts only the measurements on the mean and standard deviation for each measurement.
+3. Uses descriptive activity names to name the activities in the data set.
+4. Appropriately labels the data set with descriptive variable names.
+5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
+The R script
+1. download package
+2. download file to unzip
+3. unzip the file
+4. put the file into a folder
+5.Read the subject files.
+6. Read the activity files.
+7. read data files
+8. Concatenate the data tables.
+9. Merge columns
+10. Set key.
+11. Extract only the mean and standard deviation
+12. Subset these variables using variable names.
+13. Use descriptive activity names
+14. Label with descriptive activity names
+15. Features with 2 categories
+16. Features with 3 categories
+17. Create a tidy data set
